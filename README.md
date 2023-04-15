@@ -9,6 +9,9 @@ seperti yang telah dispesifikasikan. Aamiin.
 User dapat login/register sebagai developer lalu dapat melihat list game yang dibuat oleh developer tersebut.
 User juga dapat melihat list developer lain yang telah melakukan registrasi pada aplikasi.
 
+## Class Diagram
+![image](https://user-images.githubusercontent.com/91662639/232237431-c8ec2f7b-2ccc-4bd5-abe2-ce655e0bb15c.png)
+
 ## Video demo aplikasi
 https://user-images.githubusercontent.com/91662639/232234434-37216e1f-68f8-4a9c-b815-4edd8ce894ec.mp4
 
