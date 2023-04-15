@@ -6,13 +6,15 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan
 seperti yang telah dispesifikasikan. Aamiin.
 
 ## Program yang dibuat merupakan program database video game
+User dapat login/register sebagai developer lalu dapat melihat list game yang dibuat oleh developer tersebut.
+User juga dapat melihat list developer lain yang telah melakukan registrasi pada aplikasi.
 ## Terdapat 2 tabel pada database yaitu:
-### Developer
+**Developer**
 - dev_id
 - email
 - password
 - image
-### Game
+**Game**
 - game_id
 - dev_id
 - nama
