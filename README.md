@@ -8,12 +8,17 @@ seperti yang telah dispesifikasikan. Aamiin.
 ## Program yang dibuat merupakan program database video game
 User dapat login/register sebagai developer lalu dapat melihat list game yang dibuat oleh developer tersebut.
 User juga dapat melihat list developer lain yang telah melakukan registrasi pada aplikasi.
+
+## Video demo aplikasi
+https://user-images.githubusercontent.com/91662639/232234434-37216e1f-68f8-4a9c-b815-4edd8ce894ec.mp4
+
 ## Terdapat 2 tabel pada database yaitu:
 **Developer**
 - dev_id
 - email
 - password
 - image
+
 **Game**
 - game_id
 - dev_id
@@ -22,4 +27,11 @@ User juga dapat melihat list developer lain yang telah melakukan registrasi pada
 - platform
 - image
 
-https://user-images.githubusercontent.com/91662639/232234434-37216e1f-68f8-4a9c-b815-4edd8ce894ec.mp4
+## Fitur-fitur tambahan
+- Data developer dan data game ditampilkan menggunakan JPanel pada file yang terpisah dari frame.
+- Data yang ditampilkan berbeda untuk setiap akun.
+- User dapat melihat dan mengubah data pribadi.
+- User dapat melakukan logout.
+- User dapat menambah, mengubah, dan menghapus game yang memiliki dev_id yang sama.
+- User tidak dapat membuat/mengubah akun developer jika sudah terdapat email yang sama pada akun lain.
+- User tidak dapat registrasi jika masih ada data yang kosong.
